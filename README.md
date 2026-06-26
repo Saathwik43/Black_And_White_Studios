@@ -2,6 +2,8 @@
 
 A premium photography portfolio website and staff upload backend created for **Black and White Stories** (Photography Studio, Hyderabad). It features public-facing event galleries, a responsive lightbox, automated WhatsApp inquiries, and a login-protected admin panel for uploading and managing gallery images.
 
+🔗 **Live Website:** [black-and-white-studios-fe.onrender.com](https://black-and-white-studios-fe.onrender.com)
+
 ---
 
 ## 🛠️ Technology Stack
