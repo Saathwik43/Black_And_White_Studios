@@ -36,5 +36,5 @@ pnpm-debug.log*
 *.sw?
 thumbs.db
 
-PRD_Black_and_White_Stories_Group37.docx.md
-requirements_checklist.md
+./PRD_Black_and_White_Stories_Group37.docx.md
+./requirements_checklist.md
